@@ -1,0 +1,2 @@
+# Prohlizeni_Databaze
+miniprojekt
